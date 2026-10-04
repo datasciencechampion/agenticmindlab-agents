@@ -1,0 +1,15 @@
+{
+  "name": "Glow Salon",
+  "address": "12 MG Road, Pune",
+  "timings": {
+    "Monday-Saturday": "9am to 8pm",
+    "Sunday": "10am to 6pm"
+  },
+  "services": {
+    "Haircut": "Rs 400",
+    "Hair spa": "Rs 1,200",
+    "Facial": "Rs 900",
+    "Manicure": "Rs 500"
+  },
+  "notes": "Walk-ins welcome, but bookings get priority. Free parking behind the building."
+}

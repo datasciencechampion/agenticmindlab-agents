@@ -1,0 +1,13 @@
+Backend Developer (Python), FinPay
+
+We're looking for a backend developer to build and scale the APIs behind our payments app.
+
+Must have:
+- 2+ years building REST APIs in Python (Flask or FastAPI)
+- Strong SQL and PostgreSQL
+- Experience with data pipelines or data quality
+
+Nice to have:
+- Docker
+- AWS
+- Experience in payments or e-commerce
