@@ -10,6 +10,11 @@ Every project is small, runs on its own, and matches what you saw in the reel.
 | 33 | Resume tailor: match any job post, never invent experience | [`day33-resume-agent`](day33-resume-agent) |
 | 34 | Meeting notes: summary, decisions, action items, Slack | [`day34-meeting-notes`](day34-meeting-notes) |
 | 36 | Money agent: where did your salary go? | [`day36-money-agent`](day36-money-agent) |
+| 38 | Your own MCP server in ~15 lines | [`day38-mcp-server`](day38-mcp-server) |
+| 39 | Why RAG gives bad answers: chunking | [`day39-rag-chunking`](day39-rag-chunking) |
+| 40 | Evals: a test for your agent | [`day40-evals`](day40-evals) |
+| 41 | 3 guardrails every agent needs | [`day41-guardrails`](day41-guardrails) |
+| 43 | Same agent, 10x cheaper | [`day43-cut-costs`](day43-cut-costs) |
 
 ## Quick start
 

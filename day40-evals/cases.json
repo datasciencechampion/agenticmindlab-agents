@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sunday-hours",
+    "q": "Are you open on Sunday?",
+    "must_contain": ["10am", "2pm"],
+    "must_not": ["8pm"]
+  },
+  {
+    "id": "last-entry",
+    "q": "What is the last entry time on Sunday?",
+    "must_contain": ["1:30"],
+    "must_not": []
+  },
+  {
+    "id": "weekday",
+    "q": "What are weekday hours?",
+    "must_contain": ["8pm"],
+    "must_not": ["2pm"]
+  },
+  {
+    "id": "refund-time",
+    "q": "How long do refunds take?",
+    "must_contain": ["5", "7"],
+    "must_not": []
+  },
+  {
+    "id": "refund-reception",
+    "q": "Can reception issue refunds?",
+    "must_contain": ["cannot"],
+    "must_not": ["yes"]
+  }
+]
