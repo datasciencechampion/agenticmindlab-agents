@@ -15,6 +15,7 @@ Every project is small, runs on its own, and matches what you saw in the reel.
 | 40 | Evals: a test for your agent | [`day40-evals`](day40-evals) |
 | 41 | 3 guardrails every agent needs | [`day41-guardrails`](day41-guardrails) |
 | 43 | Same agent, 10x cheaper | [`day43-cut-costs`](day43-cut-costs) |
+| 50 | Mini Perplexity in 5 steps | [`day50-mini-perplexity`](day50-mini-perplexity) |
 
 ## Quick start
 
